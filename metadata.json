@@ -1,0 +1,7 @@
+{
+  "name": "Consorcio Activo",
+  "description": "Plataforma de Auditoría Ciudadana y Gestión Colaborativa de Consorcios. Rompiendo la asimetría de poder en la propiedad horizontal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
